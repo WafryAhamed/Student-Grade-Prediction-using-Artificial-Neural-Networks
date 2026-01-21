@@ -41,6 +41,11 @@ The ANN model is trained using the following engineered features:
 
 4. **AssignmentPenaltyScore**  
    → Number of missed deadlines × assignment impact  
+<img width="1920" height="1080" alt="model development  Tech Snatchers - Mini Project Presentation" src="https://github.com/user-attachments/assets/2afdac29-c56e-40f0-966f-18ed6c35cc7f" />
+<img width="1920" height="1080" alt="model development  Tech Snatchers - Mini Project Presentation (1)" src="https://github.com/user-attachments/assets/c76634dc-089d-411d-a67a-564dffd8e273" />
+
+
+<img width="1920" height="1080" alt="model development  Tech Snatchers - Mini Project Presentation (2)" src="https://github.com/user-attachments/assets/b4bf2a1e-afae-4534-bb84-39b51cb8bcd4" />
 
 ---
 
@@ -92,7 +97,6 @@ The ANN model is trained using the following engineered features:
    - Final ANN model saved as `.h5`  
    - Normalization statistics and label encoder classes saved as `.npy` files  
 
----
 
 
 ## 📊 Evaluation Metrics
