@@ -3,9 +3,7 @@
   Smart • Data-Driven • Optimized • Powered by Deep Learning
 </p>
 
-<!-- ========================================= -->
-<!--               BADGES SECTION              -->
-<!-- ========================================= -->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" />
@@ -15,14 +13,14 @@
   <img src="https://img.shields.io/badge/Notebook-Google%20Colab-yellow?logo=googlecolab" />
 </p>
 
----
+
 
 ## 📘 Project Overview
 
 This project builds and optimizes an **Artificial Neural Network (ANN)** to predict student grades  
 **(`A`, `B`, `C`, `F`)** using academic performance and engagement-based features.
 
-The system integrates **Bayesian Optimization** for hyperparameter tuning, applies robust preprocessing (label encoding & normalization), and evaluates performance across **training, validation, and test datasets**.
+The system integrates **Bayesian Optimization** for hyperparameter tuning, applies robust preprocessing (label encoding & normalization) and evaluates performance across **training, validation and test datasets**.
 
 
 
@@ -106,6 +104,7 @@ The ANN model is trained using the following engineered features:
 | Accuracy                | ~0.85      | ~0.84 |
 | Macro Precision / Recall / F1 | ✅ | ✅ |
 | Weighted Precision / Recall / F1 | ✅ | ✅ |
+
 <img width="1920" height="1080" alt="final viva model development  Tech Snatchers - Mini Project Presentation" src="https://github.com/user-attachments/assets/54809ec7-4696-407b-8675-2ee8e58e8288" />
 
 
